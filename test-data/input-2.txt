@@ -1,0 +1,8 @@
+#hajó generálása, majd egyesével lövöldözés amíg ki nem fogynak a tárak
+GT4500,4,0,2,0
+TORPEDO,SINGLE #fires from primary store
+TORPEDO,SINGLE #fires from secondary store
+TORPEDO,SINGLE #fires from primary store again
+TORPEDO,SINGLE #fires from secondary store again
+TORPEDO,SINGLE #fires from primary store again
+TORPEDO,SINGLE #fires from primary store again, since secondary is empty

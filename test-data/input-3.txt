@@ -1,0 +1,4 @@
+#hajógenerálás
+GT4500,10,0,10,0
+TORPEDO,ALL #mindkét tárat kilőjük
+TORPEDO,ALL #mindkét tárat kilőjük

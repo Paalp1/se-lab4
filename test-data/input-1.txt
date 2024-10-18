@@ -1,0 +1,3 @@
+#rossz hajógenerálás - nincs torpedó
+GT4500,0,0,0,0
+TORPEDO,SINGLE #kilövéspróba
