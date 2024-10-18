@@ -1,4 +1,8 @@
-#1.teszt: nincs torpedó, egyből hiba
-#2.teszt: 6 torpedó, mind egyesével sikeresen kilőve
-#3.teszt: mindkét tár kilövése kétszer
-#4.teszt: hibás tárból kilövés, sikertelen
+megpróbálja az elsőt -- üres
+megpróbálja az elsőt, megy, második üres, megint első
+első, második, mindkettő megy, próbál üresre
+egyszerre, megy
+egyszerre, vmelyik failel
+egyszerre, vmelyik üres
+első, failel
+második, failel

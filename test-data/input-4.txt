@@ -1,4 +1,5 @@
-#másodlagos tár biztos hibás
-GT4500,1,0,1,1
-TORPEDO,SINGLE #elsődleges tárból tüzelés
-TORPEDO,SINGLE #hibás tárból tüzelés
+GT4500,3,0,3,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL
