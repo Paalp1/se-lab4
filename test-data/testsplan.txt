@@ -1,0 +1,8 @@
+megpróbálja az elsőt -- üres
+megpróbálja az elsőt, megy, második üres, megint első
+első, második, mindkettő megy, próbál üresre
+egyszerre, megy
+egyszerre, vmelyik failel
+egyszerre, vmelyik üres
+első, failel
+második, failel
